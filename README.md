@@ -3,35 +3,39 @@
 ## Crew Name
 **The Machines**
 
-## 👥 Crew Members
+## 👥 (Really Cool) Crew Members
 - Jasmine “Stash Queen” Tu – Strategist (Stashing specialist)
 - Jahir “Hard Reset” Crisostomo – Fixer (Reset specialist)
 - Roberto “The Machine” Guerrero – Tech Lead
 
 ---
 
-# 🛠️ Git Commands Used
-cd <project>
+# 🛠️ Commands Used
+## 👉 CLI Commands
+```shell
+pwd
+cd <directory>
 ls
-touch <file>
-echo "text" > file.txt
-cat file.txt
-rm <file>
+touch <file-name>
+echo "text" > file-name
+echo "text" >> <file-name>
+cat <file-name>
+rm <file-name>
+```
 
+## 👉 Git Commands
+```shell
 git add .
 git commit -m "message"
-
 git checkout -b <branch>
 git checkout main
-
-git merge <branch>
-
-git revert <commit-hash>
-
-git remote add origin <URL>
+git merge <branch-name>
+git revert <commit-id>
+git remote add origin <github-repo-URL>
 git push -u origin main
 git push origin main
-
+git log
+```
 ---
 
 # 📚 Lessons Learned
@@ -40,6 +44,7 @@ git push origin main
 - Revert is the "undo button"  
 - CRLF warnings on Windows are normal  
 - Clear commit messages matter  
-- Git history gets messy fast without discipline  
+- Git history gets messy fast without discipline
+- Always check your work before commiting
 
 ---
