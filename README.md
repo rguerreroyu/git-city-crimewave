@@ -42,6 +42,9 @@ git remote add origin <github-repo-URL>
 git push -u origin main
 git push origin main
 git log
+git log --graph
+git stash
+git reset 
 ```
 ---
 
