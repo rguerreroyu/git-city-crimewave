@@ -48,3 +48,7 @@ git log
 - Always check your work before commiting
 
 ---
+
+# Resolved Conflict
+<img width="655" height="166" alt="image" src="https://github.com/user-attachments/assets/fec36761-d798-4b48-a123-27146dd5eeb4" />
+
