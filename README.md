@@ -50,7 +50,8 @@ git log
 ---
 
 # 📸 Resolved Conflict Screenshot
-<img width="655" height="166" alt="image" src="https://github.com/user-attachments/assets/fec36761-d798-4b48-a123-27146dd5eeb4" />
+<img width="653" height="123" alt="image" src="https://github.com/user-attachments/assets/01104f9a-2466-4c3c-8a01-189a9e16d764" />
+
 <img width="1231" height="135" alt="image" src="https://github.com/user-attachments/assets/95777b9b-9c4c-48b7-9204-a892b29beedf" />
 
 
