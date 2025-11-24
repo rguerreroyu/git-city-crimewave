@@ -1,9 +1,14 @@
-# 🚔⚙️ The Machines ⚙️🚔
+  _____    _   _  U _____ u      __  __      _        ____   _   _               _   _   U _____ u ____     
+ |_ " _|  |'| |'| \| ___"|/    U|' \/ '|uU  /"\  u U /"___| |'| |'|     ___     | \ |"|  \| ___"|// __"| u  
+   | |   /| |_| |\ |  _|"      \| |\/| |/ \/ _ \/  \| | u  /| |_| |\   |_"_|   <|  \| |>  |  _|" <\___ \/   
+  /| |\  U|  _  |u | |___       | |  | |  / ___ \   | |/__ U|  _  |u    | |    U| |\  |u  | |___  u___) |   
+ u |_|U   |_| |_|  |_____|      |_|  |_| /_/   \_\   \____| |_| |_|   U/| |\u   |_| \_|   |_____| |____/>>  
+ _// \\_  //   \\  <<   >>     <<,-,,-.   \\    >>  _// \\  //   \\.-,_|___|_,-.||   \\,-.<<   >>  )(  (__) 
+(__) (__)(_") ("_)(__) (__)     (./  \.) (__)  (__)(__)(__)(_") ("_)\_)-' '-(_/ (_")  (_/(__) (__)(__)      
 
-## Crew Name
-**The Machines**
+---
 
-## 👥 (Really Cool) Crew Members
+## 👥 (Really Cool) Crew Members of The Machines ⚙️🚔
 - Jasmine “Stash Queen” Tu – Strategist (Stashing specialist)
 - Jahir “Hard Reset” Crisostomo – Fixer (Reset specialist)
 - Roberto “The Machine” Guerrero – Tech Lead
